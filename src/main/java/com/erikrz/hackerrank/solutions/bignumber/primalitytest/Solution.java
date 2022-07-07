@@ -1,8 +1,3 @@
-/*
- * Copyright (c) 2022 Nextiva, Inc. to Present.
- * All rights reserved.
- */
-
 package com.erikrz.hackerrank.solutions.bignumber.primalitytest;
 
 import java.io.BufferedReader;
